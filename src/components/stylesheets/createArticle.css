@@ -1,0 +1,18 @@
+.new-article-parent-container {
+    margin: 80px auto;
+    width: 60%;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.article-form {
+    width: 80%;
+}
+
+.input-div textarea {
+    width: 55%;
+    min-height: 100px;
+    padding: 10px;
+}
+

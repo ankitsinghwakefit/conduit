@@ -1,0 +1,17 @@
+.single_article1 {
+    margin: 50px auto;
+    width: 60%;
+    background-color: #eee;
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);
+}
+
+.article_author1 {
+    display: flex;
+}
+
+.article_author1 h4{
+    font-size: 25px;
+    color: #C84284;
+}
